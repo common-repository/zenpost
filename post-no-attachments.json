@@ -1,0 +1,8 @@
+{
+  "title": "A Test Without Images",
+  "body": "The image is {{img foo}} with no attachments",
+  "status": "draft",
+  "author": 20,
+  "timestamp": 1492659493731,
+  "signature": "d62de7f3fffcd8d50063e2abd327f51e38bc54b4abcd0b6e2fb56e64ec868fff"
+}

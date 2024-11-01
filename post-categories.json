@@ -1,0 +1,8 @@
+{
+  "title": "A Test With Categories",
+  "body": "The image is {{img foo}} with no attachments",
+  "categories": [
+    "bar", 
+    "foo"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "A Test With Images",
+  "body": "The image is {{img foo}} and the other one is {{img bar}}",
+  "attachments": {
+    "foo": "http://pinkie.mylittlefacewhen.com/media/f/img/mlfw11487-Screenshot_2.png",
+    "bar": "http://dashie.mylittlefacewhen.com/media/f/img/mlfw11451-PinkieHead.png"
+  },
+  "featured_image": "foo"
+}
